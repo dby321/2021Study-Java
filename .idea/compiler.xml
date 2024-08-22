@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01.ThinkingInJava" />
+        <module name="2023Study-JavaSE" />
+        <module name="06.IO" />
+        <module name="2020Study-JavaWeb" />
+        <module name="07.NetworkPrograming" />
+        <module name="09.DongTaiDaiLi" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
